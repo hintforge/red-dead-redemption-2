@@ -1,6 +1,5 @@
 {
- "source": "https://rdr2map.com/ (window.mapData, pulled 2026-10-30 via Chrome; descriptions omitted)",
- "built_by": "extract_tools/build_rdr2_map_data.py",
+ "source": "https://rdr2map.com/ (location data, pulled 2026-10-30; descriptions omitted)",
  "positions": "picture pixels: web mercator zoom 5 of the site's lat/lng, minus (256, 512)",
  "entries": [
   {

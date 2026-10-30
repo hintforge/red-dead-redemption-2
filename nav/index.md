@@ -44,11 +44,11 @@ Left and right are perspective-dependent -- they depend on which way the player 
 
 ### Flag the game's save / checkpoint mechanism on zone entry
 
-Most games name their save / checkpoint / hub mechanism something specific (`<SAVE_POINT_TERM>`). When the player enters a zone, the routing reply must include a one-liner naming the **first `<SAVE_POINT_TERM>` location** in feature-anchored terms. If a deeper `<SAVE_POINT_TERM>` exists per the guides, mention it too without spoiling its exact location until the player reaches that section.
+This game has no named save point: saving is a pause-menu manual save (15 slots) plus autosaves, blocked during missions (see `nav/architecture.md` "Save stations"). When the player enters a zone, remind them they can save from the pause menu outside missions, and that saving in a wilderness-camp tent respawns them on that exact spot.
 
-Save / checkpoint locations are not spoilers -- withholding them is harmful, since players who don't know one exists will skip it and lose progress on death.
+Save information is not a spoiler -- withholding it is harmful, since players who don't know how saving works can lose progress.
 
-If a zone's `<SAVE_POINT_TERM>` placement isn't in the source guides, say so -- don't invent. (This game's term is not yet recorded; P2 fills it.)
+If a detail about saving isn't in the source guides, say so -- don't invent.
 
 ### Hint format on zone entry
 

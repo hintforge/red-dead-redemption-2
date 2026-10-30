@@ -129,7 +129,7 @@ _source: https://reddead.fandom.com/wiki/Missions_in_Redemption_2 ; https://redd
 
 ## Chapter ↔ Zone Mapping
 
-Chapter titles and counts from the Fandom mission list and the IGN mission list. Mission total: the wiki states 109 (94 story plus 15 Honor missions), above the 104-107 range an earlier brief expected; the variance is sub-part counting.
+Chapter titles and counts from the Fandom mission list and the IGN mission list. Mission total: the wiki states 109 (94 story plus 15 Honor missions); other lists count fewer because they merge sub-parts.
 _source: https://reddead.fandom.com/wiki/Missions_in_Redemption_2 ; https://www.ign.com/wikis/red-dead-redemption-2/Collectibles (P1 research 2026-10-30) · capture: web_fetch · confidence: high · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_ [Confirmed: 2 sources, 1 language]
 
 | Chapter | Zones | Notes | tier |
