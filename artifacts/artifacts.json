@@ -1,0 +1,18 @@
+[
+  {
+    "file": "full_map.html",
+    "name": "Collectible map",
+    "kind": "map",
+    "spoiler_class": "progression",
+    "spoiler_note": "Shows only markers that fit Chapter 1-2 and the current spoiler settings.",
+    "writes_state": "extract_tools/item_status.json"
+  },
+  {
+    "file": "full_map_all_markers.html",
+    "name": "Collectible map: all markers (spoilers)",
+    "kind": "map",
+    "spoiler_class": "story",
+    "spoiler_note": "Open only on purpose: shows the markers the player's own map holds back.",
+    "writes_state": "extract_tools/item_status.json"
+  }
+]

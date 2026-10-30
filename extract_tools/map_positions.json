@@ -1,0 +1,2504 @@
+{
+ "positions": {
+  "rdr2map:91": {
+   "x": 4335.0,
+   "y": 1677.0,
+   "approx": false
+  },
+  "rdr2map:92": {
+   "x": 6191.0,
+   "y": 3086.0,
+   "approx": false
+  },
+  "rdr2map:93": {
+   "x": 3314.5,
+   "y": 2450.8,
+   "approx": false
+  },
+  "rdr2map:96": {
+   "x": 4011.7,
+   "y": 3056.6,
+   "approx": false
+  },
+  "rdr2map:104": {
+   "x": 834.6,
+   "y": 4166.2,
+   "approx": false
+  },
+  "rdr2map:304": {
+   "x": 5341.1,
+   "y": 3073.4,
+   "approx": false
+  },
+  "rdr2map:553": {
+   "x": 6183.7,
+   "y": 3085.6,
+   "approx": false
+  },
+  "rdr2map:554": {
+   "x": 5350.1,
+   "y": 3075.0,
+   "approx": false
+  },
+  "rdr2map:555": {
+   "x": 4011.3,
+   "y": 3065.5,
+   "approx": false
+  },
+  "rdr2map:556": {
+   "x": 4334.0,
+   "y": 1681.9,
+   "approx": false
+  },
+  "rdr2map:557": {
+   "x": 830.7,
+   "y": 4162.8,
+   "approx": false
+  },
+  "rdr2map:21179": {
+   "x": 4004.2,
+   "y": 3056.4,
+   "approx": false
+  },
+  "rdr2map:21180": {
+   "x": 5350.6,
+   "y": 3085.8,
+   "approx": false
+  },
+  "rdr2map:21181": {
+   "x": 3305.7,
+   "y": 2451.7,
+   "approx": false
+  },
+  "rdr2map:319": {
+   "x": 4236.0,
+   "y": 1059.4,
+   "approx": false
+  },
+  "rdr2map:321": {
+   "x": 3839.6,
+   "y": 1094.0,
+   "approx": false
+  },
+  "rdr2map:323": {
+   "x": 3595.5,
+   "y": 1446.4,
+   "approx": false
+  },
+  "rdr2map:324": {
+   "x": 5595.1,
+   "y": 2457.0,
+   "approx": false
+  },
+  "rdr2map:326": {
+   "x": 4050.7,
+   "y": 1523.0,
+   "approx": false
+  },
+  "rdr2map:328": {
+   "x": 4057.4,
+   "y": 1528.3,
+   "approx": false
+  },
+  "rdr2map:333": {
+   "x": 4264.4,
+   "y": 1603.0,
+   "approx": false
+  },
+  "rdr2map:336": {
+   "x": 4356.8,
+   "y": 1669.1,
+   "approx": false
+  },
+  "rdr2map:337": {
+   "x": 4314.7,
+   "y": 1683.6,
+   "approx": false
+  },
+  "rdr2map:339": {
+   "x": 4264.7,
+   "y": 1734.7,
+   "approx": false
+  },
+  "rdr2map:340": {
+   "x": 4284.9,
+   "y": 1749.2,
+   "approx": false
+  },
+  "rdr2map:341": {
+   "x": 4344.6,
+   "y": 1789.8,
+   "approx": false
+  },
+  "rdr2map:342": {
+   "x": 4398.6,
+   "y": 1792.8,
+   "approx": false
+  },
+  "rdr2map:343": {
+   "x": 3971.3,
+   "y": 1983.9,
+   "approx": false
+  },
+  "rdr2map:344": {
+   "x": 3943.3,
+   "y": 1992.1,
+   "approx": false
+  },
+  "rdr2map:346": {
+   "x": 6271.9,
+   "y": 2832.8,
+   "approx": false
+  },
+  "rdr2map:347": {
+   "x": 6093.4,
+   "y": 3193.3,
+   "approx": false
+  },
+  "rdr2map:348": {
+   "x": 6032.7,
+   "y": 3229.4,
+   "approx": false
+  },
+  "rdr2map:349": {
+   "x": 5907.9,
+   "y": 3425.6,
+   "approx": false
+  },
+  "rdr2map:350": {
+   "x": 5460.1,
+   "y": 3147.9,
+   "approx": false
+  },
+  "rdr2map:351": {
+   "x": 5218.1,
+   "y": 2961.4,
+   "approx": false
+  },
+  "rdr2map:355": {
+   "x": 5443.6,
+   "y": 2774.4,
+   "approx": false
+  },
+  "rdr2map:357": {
+   "x": 5653.6,
+   "y": 2471.8,
+   "approx": false
+  },
+  "rdr2map:359": {
+   "x": 5943.8,
+   "y": 2636.7,
+   "approx": false
+  },
+  "rdr2map:360": {
+   "x": 4914.2,
+   "y": 1743.1,
+   "approx": false
+  },
+  "rdr2map:361": {
+   "x": 4234.3,
+   "y": 1774.8,
+   "approx": false
+  },
+  "rdr2map:558": {
+   "x": 4496.0,
+   "y": 1402.5,
+   "approx": false
+  },
+  "rdr2map:559": {
+   "x": 5575.1,
+   "y": 755.7,
+   "approx": false
+  },
+  "rdr2map:560": {
+   "x": 6195.3,
+   "y": 696.5,
+   "approx": false
+  },
+  "rdr2map:561": {
+   "x": 6161.0,
+   "y": 887.2,
+   "approx": false
+  },
+  "rdr2map:562": {
+   "x": 6152.1,
+   "y": 817.4,
+   "approx": false
+  },
+  "rdr2map:563": {
+   "x": 6528.4,
+   "y": 1316.3,
+   "approx": false
+  },
+  "rdr2map:564": {
+   "x": 6486.1,
+   "y": 1338.5,
+   "approx": false
+  },
+  "rdr2map:565": {
+   "x": 6436.4,
+   "y": 1293.3,
+   "approx": false
+  },
+  "rdr2map:566": {
+   "x": 6412.4,
+   "y": 1302.0,
+   "approx": false
+  },
+  "rdr2map:567": {
+   "x": 6347.9,
+   "y": 1337.3,
+   "approx": false
+  },
+  "rdr2map:568": {
+   "x": 6329.6,
+   "y": 1343.8,
+   "approx": false
+  },
+  "rdr2map:569": {
+   "x": 6223.3,
+   "y": 1703.6,
+   "approx": false
+  },
+  "rdr2map:570": {
+   "x": 3069.1,
+   "y": 1735.4,
+   "approx": false
+  },
+  "rdr2map:571": {
+   "x": 3035.4,
+   "y": 1727.9,
+   "approx": false
+  },
+  "rdr2map:572": {
+   "x": 3022.9,
+   "y": 1731.7,
+   "approx": false
+  },
+  "rdr2map:573": {
+   "x": 4291.5,
+   "y": 2437.4,
+   "approx": false
+  },
+  "rdr2map:574": {
+   "x": 4295.9,
+   "y": 2457.2,
+   "approx": false
+  },
+  "rdr2map:652": {
+   "x": 3335.9,
+   "y": 2460.2,
+   "approx": false
+  },
+  "rdr2map:653": {
+   "x": 3785.0,
+   "y": 2599.3,
+   "approx": false
+  },
+  "rdr2map:654": {
+   "x": 5022.6,
+   "y": 2864.7,
+   "approx": false
+  },
+  "rdr2map:655": {
+   "x": 5118.5,
+   "y": 3413.9,
+   "approx": false
+  },
+  "rdr2map:656": {
+   "x": 5412.9,
+   "y": 3105.0,
+   "approx": false
+  },
+  "rdr2map:657": {
+   "x": 6168.9,
+   "y": 2960.2,
+   "approx": false
+  },
+  "rdr2map:658": {
+   "x": 6377.8,
+   "y": 2999.2,
+   "approx": false
+  },
+  "rdr2map:659": {
+   "x": 6412.3,
+   "y": 3168.0,
+   "approx": false
+  },
+  "rdr2map:660": {
+   "x": 6301.8,
+   "y": 3256.1,
+   "approx": false
+  },
+  "rdr2map:661": {
+   "x": 6510.4,
+   "y": 1899.3,
+   "approx": false
+  },
+  "rdr2map:662": {
+   "x": 5434.2,
+   "y": 1980.1,
+   "approx": false
+  },
+  "rdr2map:666": {
+   "x": 5457.8,
+   "y": 3069.8,
+   "approx": false
+  },
+  "rdr2map:672": {
+   "x": 5380.4,
+   "y": 3082.8,
+   "approx": false
+  },
+  "rdr2map:673": {
+   "x": 910.7,
+   "y": 4189.9,
+   "approx": false
+  },
+  "rdr2map:674": {
+   "x": 4033.5,
+   "y": 3052.6,
+   "approx": false
+  },
+  "rdr2map:675": {
+   "x": 3065.6,
+   "y": 1744.5,
+   "approx": false
+  },
+  "rdr2map:676": {
+   "x": 6315.6,
+   "y": 2922.1,
+   "approx": false
+  },
+  "rdr2map:678": {
+   "x": 2089.1,
+   "y": 3967.0,
+   "approx": false
+  },
+  "rdr2map:679": {
+   "x": 5737.6,
+   "y": 3167.7,
+   "approx": false
+  },
+  "rdr2map:680": {
+   "x": 2152.6,
+   "y": 4222.5,
+   "approx": false
+  },
+  "rdr2map:681": {
+   "x": 2034.7,
+   "y": 3945.7,
+   "approx": false
+  },
+  "rdr2map:682": {
+   "x": 6356.5,
+   "y": 3141.1,
+   "approx": false
+  },
+  "rdr2map:683": {
+   "x": 3965.9,
+   "y": 3080.2,
+   "approx": false
+  },
+  "rdr2map:684": {
+   "x": 5483.5,
+   "y": 2026.3,
+   "approx": false
+  },
+  "rdr2map:685": {
+   "x": 6151.0,
+   "y": 2029.8,
+   "approx": false
+  },
+  "rdr2map:686": {
+   "x": 5386.3,
+   "y": 3020.3,
+   "approx": false
+  },
+  "rdr2map:687": {
+   "x": 5035.9,
+   "y": 1650.6,
+   "approx": false
+  },
+  "rdr2map:688": {
+   "x": 6486.0,
+   "y": 1834.1,
+   "approx": false
+  },
+  "rdr2map:689": {
+   "x": 3963.5,
+   "y": 3116.9,
+   "approx": false
+  },
+  "rdr2map:690": {
+   "x": 4901.8,
+   "y": 1094.9,
+   "approx": false
+  },
+  "rdr2map:691": {
+   "x": 4853.8,
+   "y": 1798.7,
+   "approx": false
+  },
+  "rdr2map:692": {
+   "x": 6342.6,
+   "y": 3031.6,
+   "approx": false
+  },
+  "rdr2map:693": {
+   "x": 6181.2,
+   "y": 2494.9,
+   "approx": false
+  },
+  "rdr2map:694": {
+   "x": 6007.5,
+   "y": 2310.5,
+   "approx": false
+  },
+  "rdr2map:695": {
+   "x": 6210.1,
+   "y": 1747.0,
+   "approx": false
+  },
+  "rdr2map:696": {
+   "x": 4850.0,
+   "y": 1798.7,
+   "approx": false
+  },
+  "rdr2map:697": {
+   "x": 6276.5,
+   "y": 3044.5,
+   "approx": false
+  },
+  "rdr2map:698": {
+   "x": 6387.3,
+   "y": 2928.8,
+   "approx": false
+  },
+  "rdr2map:699": {
+   "x": 5310.0,
+   "y": 2282.9,
+   "approx": false
+  },
+  "rdr2map:700": {
+   "x": 5482.0,
+   "y": 1967.3,
+   "approx": false
+  },
+  "rdr2map:701": {
+   "x": 5772.5,
+   "y": 3110.9,
+   "approx": false
+  },
+  "rdr2map:702": {
+   "x": 6273.5,
+   "y": 3031.9,
+   "approx": false
+  },
+  "rdr2map:703": {
+   "x": 6336.9,
+   "y": 2973.0,
+   "approx": false
+  },
+  "rdr2map:704": {
+   "x": 3890.9,
+   "y": 3102.1,
+   "approx": false
+  },
+  "rdr2map:705": {
+   "x": 6443.4,
+   "y": 1799.4,
+   "approx": false
+  },
+  "rdr2map:706": {
+   "x": 5704.4,
+   "y": 2527.1,
+   "approx": false
+  },
+  "rdr2map:707": {
+   "x": 5581.6,
+   "y": 3442.6,
+   "approx": false
+  },
+  "rdr2map:708": {
+   "x": 5787.5,
+   "y": 3453.8,
+   "approx": false
+  },
+  "rdr2map:709": {
+   "x": 2062.9,
+   "y": 3922.0,
+   "approx": false
+  },
+  "rdr2map:710": {
+   "x": 6216.6,
+   "y": 3262.5,
+   "approx": false
+  },
+  "rdr2map:711": {
+   "x": 3646.0,
+   "y": 1956.7,
+   "approx": false
+  },
+  "rdr2map:712": {
+   "x": 4098.6,
+   "y": 2263.6,
+   "approx": false
+  },
+  "rdr2map:713": {
+   "x": 5646.2,
+   "y": 1209.3,
+   "approx": false
+  },
+  "rdr2map:714": {
+   "x": 5391.0,
+   "y": 3118.5,
+   "approx": false
+  },
+  "rdr2map:715": {
+   "x": 5324.9,
+   "y": 3065.0,
+   "approx": false
+  },
+  "rdr2map:716": {
+   "x": 5399.3,
+   "y": 3731.5,
+   "approx": false
+  },
+  "rdr2map:717": {
+   "x": 5391.8,
+   "y": 3734.5,
+   "approx": false
+  },
+  "rdr2map:718": {
+   "x": 6249.5,
+   "y": 2903.6,
+   "approx": false
+  },
+  "rdr2map:719": {
+   "x": 6404.9,
+   "y": 3048.7,
+   "approx": false
+  },
+  "rdr2map:720": {
+   "x": 3313.2,
+   "y": 2461.9,
+   "approx": false
+  },
+  "rdr2map:721": {
+   "x": 3977.0,
+   "y": 3215.5,
+   "approx": false
+  },
+  "rdr2map:722": {
+   "x": 3870.0,
+   "y": 3055.4,
+   "approx": false
+  },
+  "rdr2map:723": {
+   "x": 5218.3,
+   "y": 3434.9,
+   "approx": false
+  },
+  "rdr2map:724": {
+   "x": 6051.6,
+   "y": 2440.0,
+   "approx": false
+  },
+  "rdr2map:725": {
+   "x": 6401.3,
+   "y": 2034.1,
+   "approx": false
+  },
+  "rdr2map:726": {
+   "x": 5490.4,
+   "y": 1676.3,
+   "approx": false
+  },
+  "rdr2map:727": {
+   "x": 6470.6,
+   "y": 1295.7,
+   "approx": false
+  },
+  "rdr2map:728": {
+   "x": 5263.2,
+   "y": 1889.6,
+   "approx": false
+  },
+  "rdr2map:731": {
+   "x": 849.5,
+   "y": 4133.0,
+   "approx": false
+  },
+  "rdr2map:732": {
+   "x": 2856.0,
+   "y": 3830.4,
+   "approx": false
+  },
+  "rdr2map:733": {
+   "x": 5113.2,
+   "y": 2045.0,
+   "approx": false
+  },
+  "rdr2map:734": {
+   "x": 6380.4,
+   "y": 1862.1,
+   "approx": false
+  },
+  "rdr2map:735": {
+   "x": 5358.0,
+   "y": 2486.0,
+   "approx": false
+  },
+  "rdr2map:736": {
+   "x": 5272.1,
+   "y": 2866.4,
+   "approx": false
+  },
+  "rdr2map:737": {
+   "x": 5386.1,
+   "y": 2979.9,
+   "approx": false
+  },
+  "rdr2map:738": {
+   "x": 6206.2,
+   "y": 3079.6,
+   "approx": false
+  },
+  "rdr2map:739": {
+   "x": 6218.7,
+   "y": 3088.1,
+   "approx": false
+  },
+  "rdr2map:740": {
+   "x": 834.7,
+   "y": 4183.6,
+   "approx": false
+  },
+  "rdr2map:741": {
+   "x": 772.7,
+   "y": 4176.6,
+   "approx": false
+  },
+  "rdr2map:742": {
+   "x": 3342.0,
+   "y": 2505.0,
+   "approx": false
+  },
+  "rdr2map:743": {
+   "x": 2938.8,
+   "y": 1892.0,
+   "approx": false
+  },
+  "rdr2map:744": {
+   "x": 2945.7,
+   "y": 1901.3,
+   "approx": false
+  },
+  "rdr2map:745": {
+   "x": 5528.9,
+   "y": 1925.7,
+   "approx": false
+  },
+  "rdr2map:747": {
+   "x": 6327.8,
+   "y": 1743.7,
+   "approx": false
+  },
+  "rdr2map:748": {
+   "x": 5735.8,
+   "y": 3042.2,
+   "approx": false
+  },
+  "rdr2map:749": {
+   "x": 6022.6,
+   "y": 2722.8,
+   "approx": false
+  },
+  "rdr2map:750": {
+   "x": 6017.9,
+   "y": 2743.0,
+   "approx": false
+  },
+  "rdr2map:751": {
+   "x": 6097.9,
+   "y": 2792.0,
+   "approx": false
+  },
+  "rdr2map:752": {
+   "x": 6091.9,
+   "y": 2793.5,
+   "approx": false
+  },
+  "rdr2map:753": {
+   "x": 6339.5,
+   "y": 3006.4,
+   "approx": false
+  },
+  "rdr2map:754": {
+   "x": 6027.3,
+   "y": 3026.0,
+   "approx": false
+  },
+  "rdr2map:755": {
+   "x": 4747.4,
+   "y": 2664.0,
+   "approx": false
+  },
+  "rdr2map:756": {
+   "x": 5914.1,
+   "y": 2621.6,
+   "approx": false
+  },
+  "rdr2map:757": {
+   "x": 5770.9,
+   "y": 2732.0,
+   "approx": false
+  },
+  "rdr2map:758": {
+   "x": 5495.8,
+   "y": 3364.3,
+   "approx": false
+  },
+  "rdr2map:759": {
+   "x": 6499.9,
+   "y": 1884.5,
+   "approx": false
+  },
+  "rdr2map:760": {
+   "x": 6142.3,
+   "y": 2021.0,
+   "approx": false
+  },
+  "rdr2map:761": {
+   "x": 5860.2,
+   "y": 1810.8,
+   "approx": false
+  },
+  "rdr2map:762": {
+   "x": 5865.0,
+   "y": 1811.5,
+   "approx": false
+  },
+  "rdr2map:763": {
+   "x": 4665.9,
+   "y": 1559.0,
+   "approx": false
+  },
+  "rdr2map:764": {
+   "x": 6178.7,
+   "y": 2496.0,
+   "approx": false
+  },
+  "rdr2map:51": {
+   "x": 4703.8,
+   "y": 2506.2,
+   "approx": false
+  },
+  "rdr2map:52": {
+   "x": 4808.4,
+   "y": 2320.5,
+   "approx": false
+  },
+  "rdr2map:53": {
+   "x": 4756.2,
+   "y": 2226.5,
+   "approx": false
+  },
+  "rdr2map:54": {
+   "x": 5135.7,
+   "y": 2377.5,
+   "approx": false
+  },
+  "rdr2map:55": {
+   "x": 5094.2,
+   "y": 2507.0,
+   "approx": false
+  },
+  "rdr2map:56": {
+   "x": 5609.2,
+   "y": 1677.6,
+   "approx": false
+  },
+  "rdr2map:57": {
+   "x": 6072.9,
+   "y": 1485.2,
+   "approx": false
+  },
+  "rdr2map:58": {
+   "x": 6385.8,
+   "y": 1730.9,
+   "approx": false
+  },
+  "rdr2map:59": {
+   "x": 6373.4,
+   "y": 990.9,
+   "approx": false
+  },
+  "rdr2map:60": {
+   "x": 5897.6,
+   "y": 1085.1,
+   "approx": false
+  },
+  "rdr2map:61": {
+   "x": 5577.3,
+   "y": 864.8,
+   "approx": false
+  },
+  "rdr2map:62": {
+   "x": 5416.5,
+   "y": 1252.7,
+   "approx": false
+  },
+  "rdr2map:63": {
+   "x": 5000.3,
+   "y": 870.5,
+   "approx": false
+  },
+  "rdr2map:64": {
+   "x": 4818.2,
+   "y": 1139.5,
+   "approx": false
+  },
+  "rdr2map:65": {
+   "x": 4623.7,
+   "y": 1161.7,
+   "approx": false
+  },
+  "rdr2map:66": {
+   "x": 4422.9,
+   "y": 1441.6,
+   "approx": false
+  },
+  "rdr2map:67": {
+   "x": 4134.4,
+   "y": 1581.3,
+   "approx": false
+  },
+  "rdr2map:68": {
+   "x": 4110.9,
+   "y": 1648.9,
+   "approx": false
+  },
+  "rdr2map:69": {
+   "x": 3875.0,
+   "y": 2139.9,
+   "approx": false
+  },
+  "rdr2map:70": {
+   "x": 3505.9,
+   "y": 1727.3,
+   "approx": false
+  },
+  "rdr2map:71": {
+   "x": 2924.0,
+   "y": 1999.8,
+   "approx": false
+  },
+  "rdr2map:72": {
+   "x": 2980.7,
+   "y": 2222.4,
+   "approx": false
+  },
+  "rdr2map:73": {
+   "x": 2496.8,
+   "y": 3740.3,
+   "approx": false
+  },
+  "rdr2map:74": {
+   "x": 2724.3,
+   "y": 4342.7,
+   "approx": false
+  },
+  "rdr2map:75": {
+   "x": 2133.8,
+   "y": 4616.6,
+   "approx": false
+  },
+  "rdr2map:76": {
+   "x": 1565.7,
+   "y": 4655.8,
+   "approx": false
+  },
+  "rdr2map:77": {
+   "x": 1712.2,
+   "y": 4138.5,
+   "approx": false
+  },
+  "rdr2map:78": {
+   "x": 1567.6,
+   "y": 3691.6,
+   "approx": false
+  },
+  "rdr2map:79": {
+   "x": 926.5,
+   "y": 4251.1,
+   "approx": false
+  },
+  "rdr2map:80": {
+   "x": 1006.9,
+   "y": 4009.1,
+   "approx": false
+  },
+  "rdr2map:226": {
+   "x": 5782.3,
+   "y": 935.6,
+   "approx": false
+  },
+  "rdr2map:251": {
+   "x": 6215.6,
+   "y": 1131.5,
+   "approx": false
+  },
+  "rdr2map:252": {
+   "x": 6178.9,
+   "y": 1294.9,
+   "approx": false
+  },
+  "rdr2map:254": {
+   "x": 6289.5,
+   "y": 1355.9,
+   "approx": false
+  },
+  "rdr2map:257": {
+   "x": 6232.7,
+   "y": 1447.0,
+   "approx": false
+  },
+  "rdr2map:259": {
+   "x": 6078.8,
+   "y": 1650.5,
+   "approx": false
+  },
+  "rdr2map:260": {
+   "x": 5644.4,
+   "y": 1743.6,
+   "approx": false
+  },
+  "rdr2map:261": {
+   "x": 5362.8,
+   "y": 1856.8,
+   "approx": false
+  },
+  "rdr2map:262": {
+   "x": 5603.9,
+   "y": 2215.2,
+   "approx": false
+  },
+  "rdr2map:263": {
+   "x": 5835.8,
+   "y": 2360.6,
+   "approx": false
+  },
+  "rdr2map:264": {
+   "x": 5560.8,
+   "y": 2369.7,
+   "approx": false
+  },
+  "rdr2map:266": {
+   "x": 4996.8,
+   "y": 2201.9,
+   "approx": false
+  },
+  "rdr2map:267": {
+   "x": 4588.4,
+   "y": 1788.9,
+   "approx": false
+  },
+  "rdr2map:268": {
+   "x": 4499.1,
+   "y": 2063.6,
+   "approx": false
+  },
+  "rdr2map:269": {
+   "x": 4161.8,
+   "y": 2407.0,
+   "approx": false
+  },
+  "rdr2map:270": {
+   "x": 4152.6,
+   "y": 2047.8,
+   "approx": false
+  },
+  "rdr2map:271": {
+   "x": 4158.2,
+   "y": 1848.5,
+   "approx": false
+  },
+  "rdr2map:273": {
+   "x": 3891.5,
+   "y": 1544.5,
+   "approx": false
+  },
+  "rdr2map:274": {
+   "x": 4190.0,
+   "y": 1310.9,
+   "approx": false
+  },
+  "rdr2map:275": {
+   "x": 4709.8,
+   "y": 1023.5,
+   "approx": false
+  },
+  "rdr2map:409": {
+   "x": 5636.3,
+   "y": 1062.0,
+   "approx": false
+  },
+  "rdr2map:410": {
+   "x": 5440.8,
+   "y": 908.6,
+   "approx": false
+  },
+  "rdr2map:411": {
+   "x": 5545.9,
+   "y": 1096.6,
+   "approx": false
+  },
+  "rdr2map:412": {
+   "x": 5638.5,
+   "y": 1257.3,
+   "approx": false
+  },
+  "rdr2map:413": {
+   "x": 5563.2,
+   "y": 1302.8,
+   "approx": false
+  },
+  "rdr2map:414": {
+   "x": 5790.0,
+   "y": 1182.5,
+   "approx": false
+  },
+  "rdr2map:415": {
+   "x": 5801.7,
+   "y": 1463.2,
+   "approx": false
+  },
+  "rdr2map:416": {
+   "x": 5214.9,
+   "y": 1443.0,
+   "approx": false
+  },
+  "rdr2map:417": {
+   "x": 5039.2,
+   "y": 1173.7,
+   "approx": false
+  },
+  "rdr2map:418": {
+   "x": 5851.0,
+   "y": 3400.6,
+   "approx": false
+  },
+  "rdr2map:419": {
+   "x": 5756.7,
+   "y": 3416.4,
+   "approx": false
+  },
+  "rdr2map:420": {
+   "x": 5661.8,
+   "y": 3463.3,
+   "approx": false
+  },
+  "rdr2map:421": {
+   "x": 5626.3,
+   "y": 3557.8,
+   "approx": false
+  },
+  "rdr2map:422": {
+   "x": 5556.3,
+   "y": 3561.3,
+   "approx": false
+  },
+  "rdr2map:423": {
+   "x": 5547.3,
+   "y": 3483.3,
+   "approx": false
+  },
+  "rdr2map:424": {
+   "x": 5480.8,
+   "y": 3573.1,
+   "approx": false
+  },
+  "rdr2map:425": {
+   "x": 5432.8,
+   "y": 3644.3,
+   "approx": false
+  },
+  "rdr2map:426": {
+   "x": 5430.8,
+   "y": 3716.3,
+   "approx": false
+  },
+  "rdr2map:427": {
+   "x": 5323.7,
+   "y": 3709.9,
+   "approx": false
+  },
+  "rdr2map:428": {
+   "x": 5841.3,
+   "y": 3333.6,
+   "approx": false
+  },
+  "rdr2map:429": {
+   "x": 5821.3,
+   "y": 3327.1,
+   "approx": false
+  },
+  "rdr2map:430": {
+   "x": 5792.1,
+   "y": 3325.9,
+   "approx": false
+  },
+  "rdr2map:431": {
+   "x": 5816.7,
+   "y": 3462.1,
+   "approx": false
+  },
+  "rdr2map:432": {
+   "x": 5795.4,
+   "y": 3444.3,
+   "approx": false
+  },
+  "rdr2map:433": {
+   "x": 5845.4,
+   "y": 3435.8,
+   "approx": false
+  },
+  "rdr2map:434": {
+   "x": 5910.6,
+   "y": 3515.4,
+   "approx": false
+  },
+  "rdr2map:435": {
+   "x": 5871.6,
+   "y": 3490.7,
+   "approx": false
+  },
+  "rdr2map:436": {
+   "x": 5837.8,
+   "y": 3539.2,
+   "approx": false
+  },
+  "rdr2map:437": {
+   "x": 5861.8,
+   "y": 3527.9,
+   "approx": false
+  },
+  "rdr2map:438": {
+   "x": 5847.8,
+   "y": 3536.9,
+   "approx": false
+  },
+  "rdr2map:439": {
+   "x": 5871.2,
+   "y": 3553.1,
+   "approx": false
+  },
+  "rdr2map:440": {
+   "x": 5892.7,
+   "y": 3487.4,
+   "approx": false
+  },
+  "rdr2map:441": {
+   "x": 5921.0,
+   "y": 3490.5,
+   "approx": false
+  },
+  "rdr2map:442": {
+   "x": 5904.2,
+   "y": 3482.4,
+   "approx": false
+  },
+  "rdr2map:443": {
+   "x": 5886.1,
+   "y": 3471.6,
+   "approx": false
+  },
+  "rdr2map:444": {
+   "x": 5914.3,
+   "y": 3461.1,
+   "approx": false
+  },
+  "rdr2map:445": {
+   "x": 5872.0,
+   "y": 3437.1,
+   "approx": false
+  },
+  "rdr2map:446": {
+   "x": 5864.0,
+   "y": 3454.4,
+   "approx": false
+  },
+  "rdr2map:447": {
+   "x": 5873.1,
+   "y": 3369.3,
+   "approx": false
+  },
+  "rdr2map:448": {
+   "x": 5887.1,
+   "y": 3372.8,
+   "approx": false
+  },
+  "rdr2map:449": {
+   "x": 5961.5,
+   "y": 3326.2,
+   "approx": false
+  },
+  "rdr2map:450": {
+   "x": 5902.7,
+   "y": 3280.5,
+   "approx": false
+  },
+  "rdr2map:451": {
+   "x": 5885.5,
+   "y": 3176.8,
+   "approx": false
+  },
+  "rdr2map:452": {
+   "x": 5970.2,
+   "y": 3115.8,
+   "approx": false
+  },
+  "rdr2map:453": {
+   "x": 5986.2,
+   "y": 3046.6,
+   "approx": false
+  },
+  "rdr2map:455": {
+   "x": 5904.3,
+   "y": 3064.6,
+   "approx": false
+  },
+  "rdr2map:456": {
+   "x": 5867.3,
+   "y": 3064.3,
+   "approx": false
+  },
+  "rdr2map:457": {
+   "x": 5866.8,
+   "y": 3023.3,
+   "approx": false
+  },
+  "rdr2map:458": {
+   "x": 5832.5,
+   "y": 3011.1,
+   "approx": false
+  },
+  "rdr2map:459": {
+   "x": 5812.5,
+   "y": 3001.6,
+   "approx": false
+  },
+  "rdr2map:460": {
+   "x": 5788.3,
+   "y": 2972.1,
+   "approx": false
+  },
+  "rdr2map:461": {
+   "x": 5770.4,
+   "y": 3000.7,
+   "approx": false
+  },
+  "rdr2map:462": {
+   "x": 5874.4,
+   "y": 2966.2,
+   "approx": false
+  },
+  "rdr2map:463": {
+   "x": 5875.9,
+   "y": 2923.4,
+   "approx": false
+  },
+  "rdr2map:464": {
+   "x": 5844.9,
+   "y": 2939.4,
+   "approx": false
+  },
+  "rdr2map:465": {
+   "x": 5777.4,
+   "y": 2842.5,
+   "approx": false
+  },
+  "rdr2map:466": {
+   "x": 5732.4,
+   "y": 2820.2,
+   "approx": false
+  },
+  "rdr2map:467": {
+   "x": 5718.7,
+   "y": 2898.0,
+   "approx": false
+  },
+  "rdr2map:468": {
+   "x": 5740.2,
+   "y": 2919.0,
+   "approx": false
+  },
+  "rdr2map:469": {
+   "x": 5669.6,
+   "y": 2883.8,
+   "approx": false
+  },
+  "rdr2map:470": {
+   "x": 5698.8,
+   "y": 2843.8,
+   "approx": false
+  },
+  "rdr2map:471": {
+   "x": 5668.1,
+   "y": 2872.3,
+   "approx": false
+  },
+  "rdr2map:472": {
+   "x": 5657.8,
+   "y": 2864.0,
+   "approx": false
+  },
+  "rdr2map:473": {
+   "x": 5684.6,
+   "y": 2932.0,
+   "approx": false
+  },
+  "rdr2map:474": {
+   "x": 5662.8,
+   "y": 2979.0,
+   "approx": false
+  },
+  "rdr2map:475": {
+   "x": 5623.1,
+   "y": 2991.0,
+   "approx": false
+  },
+  "rdr2map:476": {
+   "x": 5604.3,
+   "y": 2902.3,
+   "approx": false
+  },
+  "rdr2map:477": {
+   "x": 5561.6,
+   "y": 2847.5,
+   "approx": false
+  },
+  "rdr2map:478": {
+   "x": 5583.1,
+   "y": 2813.7,
+   "approx": false
+  },
+  "rdr2map:479": {
+   "x": 5585.4,
+   "y": 2788.9,
+   "approx": false
+  },
+  "rdr2map:480": {
+   "x": 5565.6,
+   "y": 2758.7,
+   "approx": false
+  },
+  "rdr2map:481": {
+   "x": 5573.4,
+   "y": 2736.7,
+   "approx": false
+  },
+  "rdr2map:482": {
+   "x": 5608.4,
+   "y": 2805.7,
+   "approx": false
+  },
+  "rdr2map:483": {
+   "x": 5615.9,
+   "y": 2779.4,
+   "approx": false
+  },
+  "rdr2map:484": {
+   "x": 5619.9,
+   "y": 2800.9,
+   "approx": false
+  },
+  "rdr2map:485": {
+   "x": 5644.7,
+   "y": 2806.6,
+   "approx": false
+  },
+  "rdr2map:486": {
+   "x": 5656.2,
+   "y": 2823.6,
+   "approx": false
+  },
+  "rdr2map:487": {
+   "x": 5673.7,
+   "y": 2811.4,
+   "approx": false
+  },
+  "rdr2map:488": {
+   "x": 5686.2,
+   "y": 2826.6,
+   "approx": false
+  },
+  "rdr2map:489": {
+   "x": 5661.2,
+   "y": 2709.9,
+   "approx": false
+  },
+  "rdr2map:491": {
+   "x": 6395.0,
+   "y": 2248.1,
+   "approx": false
+  },
+  "rdr2map:492": {
+   "x": 6411.5,
+   "y": 2359.6,
+   "approx": false
+  },
+  "rdr2map:493": {
+   "x": 6331.0,
+   "y": 2399.1,
+   "approx": false
+  },
+  "rdr2map:494": {
+   "x": 6228.5,
+   "y": 2359.1,
+   "approx": false
+  },
+  "rdr2map:495": {
+   "x": 6181.5,
+   "y": 2445.1,
+   "approx": false
+  },
+  "rdr2map:496": {
+   "x": 6223.8,
+   "y": 2484.0,
+   "approx": false
+  },
+  "rdr2map:497": {
+   "x": 6185.0,
+   "y": 2588.3,
+   "approx": false
+  },
+  "rdr2map:498": {
+   "x": 6198.0,
+   "y": 2671.1,
+   "approx": false
+  },
+  "rdr2map:499": {
+   "x": 6051.5,
+   "y": 2775.9,
+   "approx": false
+  },
+  "rdr2map:500": {
+   "x": 6103.0,
+   "y": 2806.6,
+   "approx": false
+  },
+  "rdr2map:501": {
+   "x": 6236.4,
+   "y": 2656.5,
+   "approx": false
+  },
+  "rdr2map:502": {
+   "x": 6227.7,
+   "y": 2603.0,
+   "approx": false
+  },
+  "rdr2map:503": {
+   "x": 6180.7,
+   "y": 2694.8,
+   "approx": false
+  },
+  "rdr2map:504": {
+   "x": 6077.9,
+   "y": 2696.3,
+   "approx": false
+  },
+  "rdr2map:505": {
+   "x": 6125.9,
+   "y": 2599.4,
+   "approx": false
+  },
+  "rdr2map:507": {
+   "x": 5897.1,
+   "y": 2549.8,
+   "approx": false
+  },
+  "rdr2map:508": {
+   "x": 5859.5,
+   "y": 2426.2,
+   "approx": false
+  },
+  "rdr2map:509": {
+   "x": 5930.0,
+   "y": 2402.7,
+   "approx": false
+  },
+  "rdr2map:510": {
+   "x": 6081.0,
+   "y": 2576.2,
+   "approx": false
+  },
+  "rdr2map:511": {
+   "x": 6053.5,
+   "y": 2560.9,
+   "approx": false
+  },
+  "rdr2map:512": {
+   "x": 5992.0,
+   "y": 2669.7,
+   "approx": false
+  },
+  "rdr2map:513": {
+   "x": 5964.0,
+   "y": 2669.7,
+   "approx": false
+  },
+  "rdr2map:514": {
+   "x": 6341.5,
+   "y": 2714.2,
+   "approx": false
+  },
+  "rdr2map:515": {
+   "x": 6362.0,
+   "y": 2621.2,
+   "approx": false
+  },
+  "rdr2map:516": {
+   "x": 6385.0,
+   "y": 2658.4,
+   "approx": false
+  },
+  "rdr2map:517": {
+   "x": 6375.8,
+   "y": 2686.3,
+   "approx": false
+  },
+  "rdr2map:518": {
+   "x": 6044.6,
+   "y": 2754.8,
+   "approx": false
+  },
+  "rdr2map:519": {
+   "x": 5962.8,
+   "y": 2731.8,
+   "approx": false
+  },
+  "rdr2map:520": {
+   "x": 6132.3,
+   "y": 2688.8,
+   "approx": false
+  },
+  "rdr2map:521": {
+   "x": 5990.6,
+   "y": 2661.0,
+   "approx": false
+  },
+  "rdr2map:522": {
+   "x": 6105.8,
+   "y": 2607.8,
+   "approx": false
+  },
+  "rdr2map:523": {
+   "x": 6101.6,
+   "y": 2573.4,
+   "approx": false
+  },
+  "rdr2map:524": {
+   "x": 6085.1,
+   "y": 2534.3,
+   "approx": false
+  },
+  "rdr2map:525": {
+   "x": 6008.6,
+   "y": 2572.8,
+   "approx": false
+  },
+  "rdr2map:526": {
+   "x": 6030.0,
+   "y": 2600.5,
+   "approx": false
+  },
+  "rdr2map:527": {
+   "x": 6019.9,
+   "y": 1931.6,
+   "approx": false
+  },
+  "rdr2map:528": {
+   "x": 6122.2,
+   "y": 1196.6,
+   "approx": false
+  },
+  "rdr2map:529": {
+   "x": 5986.7,
+   "y": 1230.1,
+   "approx": false
+  },
+  "rdr2map:530": {
+   "x": 5959.2,
+   "y": 1329.1,
+   "approx": false
+  },
+  "rdr2map:531": {
+   "x": 6023.7,
+   "y": 1368.6,
+   "approx": false
+  },
+  "rdr2map:532": {
+   "x": 6034.7,
+   "y": 1460.2,
+   "approx": false
+  },
+  "rdr2map:533": {
+   "x": 5936.0,
+   "y": 1484.3,
+   "approx": false
+  },
+  "rdr2map:534": {
+   "x": 6099.2,
+   "y": 1490.3,
+   "approx": false
+  },
+  "rdr2map:535": {
+   "x": 6115.7,
+   "y": 1426.8,
+   "approx": false
+  },
+  "rdr2map:536": {
+   "x": 6108.7,
+   "y": 1365.8,
+   "approx": false
+  },
+  "rdr2map:537": {
+   "x": 6144.7,
+   "y": 1502.8,
+   "approx": false
+  },
+  "rdr2map:538": {
+   "x": 6301.2,
+   "y": 1405.3,
+   "approx": false
+  },
+  "rdr2map:539": {
+   "x": 6277.2,
+   "y": 1320.8,
+   "approx": false
+  },
+  "rdr2map:540": {
+   "x": 6195.9,
+   "y": 1340.1,
+   "approx": false
+  },
+  "rdr2map:541": {
+   "x": 6262.9,
+   "y": 1248.8,
+   "approx": false
+  },
+  "rdr2map:542": {
+   "x": 6315.4,
+   "y": 1148.4,
+   "approx": false
+  },
+  "rdr2map:543": {
+   "x": 6205.9,
+   "y": 1144.9,
+   "approx": false
+  },
+  "rdr2map:544": {
+   "x": 6232.4,
+   "y": 1186.9,
+   "approx": false
+  },
+  "rdr2map:545": {
+   "x": 6328.2,
+   "y": 1074.8,
+   "approx": false
+  },
+  "rdr2map:546": {
+   "x": 6294.7,
+   "y": 1008.3,
+   "approx": false
+  },
+  "rdr2map:547": {
+   "x": 6227.0,
+   "y": 1005.9,
+   "approx": false
+  },
+  "rdr2map:548": {
+   "x": 6184.5,
+   "y": 1059.4,
+   "approx": false
+  },
+  "rdr2map:549": {
+   "x": 6052.0,
+   "y": 1127.3,
+   "approx": false
+  },
+  "rdr2map:550": {
+   "x": 5973.5,
+   "y": 1069.3,
+   "approx": false
+  },
+  "rdr2map:551": {
+   "x": 6080.5,
+   "y": 1078.3,
+   "approx": false
+  },
+  "rdr2map:552": {
+   "x": 6145.5,
+   "y": 1099.1,
+   "approx": false
+  },
+  "rdr2map:599": {
+   "x": 3010.9,
+   "y": 1735.5,
+   "approx": false
+  },
+  "rdr2map:600": {
+   "x": 3507.6,
+   "y": 1735.4,
+   "approx": false
+  },
+  "rdr2map:601": {
+   "x": 2798.3,
+   "y": 2082.7,
+   "approx": false
+  },
+  "rdr2map:602": {
+   "x": 2780.5,
+   "y": 2027.5,
+   "approx": false
+  },
+  "rdr2map:603": {
+   "x": 2712.0,
+   "y": 2131.7,
+   "approx": false
+  },
+  "rdr2map:604": {
+   "x": 2757.3,
+   "y": 2261.3,
+   "approx": false
+  },
+  "rdr2map:605": {
+   "x": 2854.2,
+   "y": 2211.8,
+   "approx": false
+  },
+  "rdr2map:606": {
+   "x": 3576.4,
+   "y": 2381.0,
+   "approx": false
+  },
+  "rdr2map:607": {
+   "x": 3570.9,
+   "y": 2369.0,
+   "approx": false
+  },
+  "rdr2map:608": {
+   "x": 2864.3,
+   "y": 3193.0,
+   "approx": false
+  },
+  "rdr2map:609": {
+   "x": 3039.3,
+   "y": 3151.3,
+   "approx": false
+  },
+  "rdr2map:610": {
+   "x": 2994.0,
+   "y": 3068.8,
+   "approx": false
+  },
+  "rdr2map:611": {
+   "x": 3038.0,
+   "y": 3068.8,
+   "approx": false
+  },
+  "rdr2map:612": {
+   "x": 3060.0,
+   "y": 3068.8,
+   "approx": false
+  },
+  "rdr2map:613": {
+   "x": 6104.1,
+   "y": 1456.0,
+   "approx": false
+  },
+  "rdr2map:614": {
+   "x": 6200.1,
+   "y": 1554.5,
+   "approx": false
+  },
+  "rdr2map:615": {
+   "x": 6173.6,
+   "y": 1494.5,
+   "approx": false
+  },
+  "rdr2map:616": {
+   "x": 6109.1,
+   "y": 1634.5,
+   "approx": false
+  },
+  "rdr2map:617": {
+   "x": 6068.6,
+   "y": 1804.7,
+   "approx": false
+  },
+  "rdr2map:618": {
+   "x": 6030.1,
+   "y": 1864.2,
+   "approx": false
+  },
+  "rdr2map:619": {
+   "x": 6159.6,
+   "y": 1912.5,
+   "approx": false
+  },
+  "rdr2map:620": {
+   "x": 6189.9,
+   "y": 1983.2,
+   "approx": false
+  },
+  "rdr2map:621": {
+   "x": 6276.3,
+   "y": 1917.7,
+   "approx": false
+  },
+  "rdr2map:622": {
+   "x": 6260.6,
+   "y": 1660.7,
+   "approx": false
+  },
+  "rdr2map:623": {
+   "x": 6251.9,
+   "y": 1691.0,
+   "approx": false
+  },
+  "rdr2map:624": {
+   "x": 6192.6,
+   "y": 1665.7,
+   "approx": false
+  },
+  "rdr2map:625": {
+   "x": 6169.6,
+   "y": 1746.2,
+   "approx": false
+  },
+  "rdr2map:626": {
+   "x": 6214.1,
+   "y": 1758.7,
+   "approx": false
+  },
+  "rdr2map:627": {
+   "x": 6187.9,
+   "y": 1709.8,
+   "approx": false
+  },
+  "rdr2map:628": {
+   "x": 6216.1,
+   "y": 1726.7,
+   "approx": false
+  },
+  "rdr2map:629": {
+   "x": 6242.6,
+   "y": 1738.2,
+   "approx": false
+  },
+  "rdr2map:630": {
+   "x": 6236.1,
+   "y": 1767.7,
+   "approx": false
+  },
+  "rdr2map:631": {
+   "x": 6211.1,
+   "y": 1695.5,
+   "approx": false
+  },
+  "rdr2map:632": {
+   "x": 5974.3,
+   "y": 2440.7,
+   "approx": false
+  },
+  "rdr2map:633": {
+   "x": 5997.7,
+   "y": 2455.2,
+   "approx": false
+  },
+  "rdr2map:634": {
+   "x": 6004.2,
+   "y": 2496.2,
+   "approx": false
+  },
+  "rdr2map:635": {
+   "x": 6043.2,
+   "y": 2496.7,
+   "approx": false
+  },
+  "rdr2map:636": {
+   "x": 5958.2,
+   "y": 2514.2,
+   "approx": false
+  },
+  "rdr2map:637": {
+   "x": 6084.2,
+   "y": 2508.9,
+   "approx": false
+  },
+  "rdr2map:638": {
+   "x": 6018.7,
+   "y": 2528.2,
+   "approx": false
+  },
+  "rdr2map:639": {
+   "x": 5933.7,
+   "y": 2530.7,
+   "approx": false
+  },
+  "rdr2map:640": {
+   "x": 5943.7,
+   "y": 2547.9,
+   "approx": false
+  },
+  "rdr2map:641": {
+   "x": 5981.2,
+   "y": 2595.7,
+   "approx": false
+  },
+  "rdr2map:642": {
+   "x": 6010.2,
+   "y": 2628.7,
+   "approx": false
+  },
+  "rdr2map:643": {
+   "x": 5957.7,
+   "y": 2671.1,
+   "approx": false
+  },
+  "rdr2map:644": {
+   "x": 5955.7,
+   "y": 2772.8,
+   "approx": false
+  },
+  "rdr2map:645": {
+   "x": 6013.7,
+   "y": 2788.1,
+   "approx": false
+  },
+  "rdr2map:646": {
+   "x": 6071.0,
+   "y": 2781.8,
+   "approx": false
+  },
+  "rdr2map:647": {
+   "x": 6140.5,
+   "y": 2788.1,
+   "approx": false
+  },
+  "rdr2map:648": {
+   "x": 6117.2,
+   "y": 2697.3,
+   "approx": false
+  },
+  "rdr2map:649": {
+   "x": 6098.7,
+   "y": 2680.3,
+   "approx": false
+  },
+  "rdr2map:650": {
+   "x": 6111.2,
+   "y": 2662.8,
+   "approx": false
+  },
+  "rdr2map:32574": {
+   "x": 5844.6,
+   "y": 3286.5,
+   "approx": false
+  },
+  "rdr2map:45977": {
+   "x": 6087.5,
+   "y": 2730.1,
+   "approx": false
+  },
+  "rdr2map:45978": {
+   "x": 6171.8,
+   "y": 2535.1,
+   "approx": false
+  },
+  "rdr2map:47306": {
+   "x": 6388.3,
+   "y": 2676.9,
+   "approx": false
+  },
+  "rdr2map:454221": {
+   "x": 5967.1,
+   "y": 2678.2,
+   "approx": false
+  },
+  "rdr2map:454222": {
+   "x": 6089.7,
+   "y": 1664.9,
+   "approx": false
+  },
+  "rdr2map:454223": {
+   "x": 4911.5,
+   "y": 960.5,
+   "approx": false
+  },
+  "rdr2map:454224": {
+   "x": 1974.4,
+   "y": 4532.8,
+   "approx": false
+  },
+  "rdr2map:454225": {
+   "x": 1763.8,
+   "y": 4357.7,
+   "approx": false
+  },
+  "rdr2map:81": {
+   "x": 3664.9,
+   "y": 291.0,
+   "approx": false
+  },
+  "rdr2map:82": {
+   "x": 3642.5,
+   "y": 572.1,
+   "approx": false
+  },
+  "rdr2map:83": {
+   "x": 4856.4,
+   "y": 932.4,
+   "approx": false
+  },
+  "rdr2map:84": {
+   "x": 5034.8,
+   "y": 1033.2,
+   "approx": false
+  },
+  "rdr2map:85": {
+   "x": 5957.0,
+   "y": 1674.9,
+   "approx": false
+  },
+  "rdr2map:86": {
+   "x": 6234.0,
+   "y": 2636.9,
+   "approx": false
+  },
+  "rdr2map:87": {
+   "x": 6239.5,
+   "y": 2638.9,
+   "approx": false
+  },
+  "rdr2map:88": {
+   "x": 5668.5,
+   "y": 3481.3,
+   "approx": false
+  },
+  "rdr2map:89": {
+   "x": 4964.2,
+   "y": 2866.1,
+   "approx": false
+  },
+  "rdr2map:592": {
+   "x": 4399.0,
+   "y": 1794.2,
+   "approx": false
+  },
+  "rdr2map:593": {
+   "x": 3343.9,
+   "y": 2470.3,
+   "approx": false
+  },
+  "rdr2map:594": {
+   "x": 5340.6,
+   "y": 3083.2,
+   "approx": false
+  },
+  "rdr2map:595": {
+   "x": 6341.8,
+   "y": 3151.2,
+   "approx": false
+  },
+  "rdr2map:596": {
+   "x": 6512.8,
+   "y": 1842.2,
+   "approx": false
+  },
+  "rdr2map:2405": {
+   "x": 2938.0,
+   "y": 1896.2,
+   "approx": false
+  },
+  "rdr2map:2406": {
+   "x": 5774.4,
+   "y": 2015.4,
+   "approx": false
+  },
+  "rdr2map:2407": {
+   "x": 5118.7,
+   "y": 3407.7,
+   "approx": false
+  },
+  "rdr2map:2408": {
+   "x": 5846.3,
+   "y": 1420.8,
+   "approx": false
+  },
+  "rdr2map:2409": {
+   "x": 4476.6,
+   "y": 2477.7,
+   "approx": false
+  },
+  "rdr2map:2410": {
+   "x": 2935.3,
+   "y": 1903.1,
+   "approx": false
+  },
+  "rdr2map:2411": {
+   "x": 5891.4,
+   "y": 2784.0,
+   "approx": false
+  },
+  "rdr2map:2412": {
+   "x": 5779.3,
+   "y": 2017.9,
+   "approx": false
+  },
+  "rdr2map:27801": {
+   "x": 3061.9,
+   "y": 1737.2,
+   "approx": false
+  },
+  "rdr2map:288": {
+   "x": 5502.2,
+   "y": 1091.9,
+   "approx": false
+  },
+  "rdr2map:289": {
+   "x": 6349.9,
+   "y": 687.8,
+   "approx": false
+  },
+  "rdr2map:290": {
+   "x": 6137.0,
+   "y": 1807.5,
+   "approx": false
+  },
+  "rdr2map:291": {
+   "x": 6126.0,
+   "y": 2387.1,
+   "approx": false
+  },
+  "rdr2map:292": {
+   "x": 5964.5,
+   "y": 2734.0,
+   "approx": false
+  },
+  "rdr2map:293": {
+   "x": 5645.7,
+   "y": 3523.5,
+   "approx": false
+  },
+  "rdr2map:294": {
+   "x": 5392.3,
+   "y": 2879.3,
+   "approx": false
+  },
+  "rdr2map:295": {
+   "x": 5126.2,
+   "y": 2608.3,
+   "approx": false
+  },
+  "rdr2map:296": {
+   "x": 3928.1,
+   "y": 1656.5,
+   "approx": false
+  },
+  "rdr2map:297": {
+   "x": 4987.1,
+   "y": 1096.0,
+   "approx": false
+  },
+  "rdr2map:298": {
+   "x": 4656.6,
+   "y": 1035.4,
+   "approx": false
+  },
+  "rdr2map:299": {
+   "x": 3385.0,
+   "y": 1028.0,
+   "approx": false
+  },
+  "rdr2map:300": {
+   "x": 2815.0,
+   "y": 2224.5,
+   "approx": false
+  },
+  "rdr2map:301": {
+   "x": 3280.5,
+   "y": 4004.0,
+   "approx": false
+  },
+  "rdr2map:302": {
+   "x": 1964.0,
+   "y": 4611.0,
+   "approx": false
+  },
+  "rdr2map:303": {
+   "x": 573.0,
+   "y": 4218.0,
+   "approx": false
+  },
+  "rdr2map:130": {
+   "x": 2934.3,
+   "y": 2497.3,
+   "approx": false
+  },
+  "rdr2map:276": {
+   "x": 6433.3,
+   "y": 671.8,
+   "approx": false
+  },
+  "rdr2map:277": {
+   "x": 6078.2,
+   "y": 1594.4,
+   "approx": false
+  },
+  "rdr2map:278": {
+   "x": 6559.2,
+   "y": 1936.4,
+   "approx": false
+  },
+  "rdr2map:279": {
+   "x": 6005.5,
+   "y": 2679.5,
+   "approx": false
+  },
+  "rdr2map:280": {
+   "x": 6628.1,
+   "y": 2684.6,
+   "approx": false
+  },
+  "rdr2map:281": {
+   "x": 5940.6,
+   "y": 3255.7,
+   "approx": false
+  },
+  "rdr2map:282": {
+   "x": 4996.5,
+   "y": 3243.0,
+   "approx": false
+  },
+  "rdr2map:283": {
+   "x": 4188.6,
+   "y": 2311.3,
+   "approx": false
+  },
+  "rdr2map:284": {
+   "x": 3391.6,
+   "y": 1129.7,
+   "approx": false
+  },
+  "rdr2map:285": {
+   "x": 2805.5,
+   "y": 3184.6,
+   "approx": false
+  },
+  "rdr2map:286": {
+   "x": 3296.5,
+   "y": 3843.5,
+   "approx": false
+  },
+  "rdr2map:287": {
+   "x": 2500.3,
+   "y": 4473.2,
+   "approx": false
+  },
+  "rdr2map:2459": {
+   "x": 5617.5,
+   "y": 1226.3,
+   "approx": false
+  },
+  "rdr2map:131": {
+   "x": 4368.9,
+   "y": 1020.1,
+   "approx": false
+  },
+  "rdr2map:132": {
+   "x": 3426.6,
+   "y": 1346.5,
+   "approx": false
+  },
+  "rdr2map:133": {
+   "x": 4365.5,
+   "y": 1330.5,
+   "approx": false
+  },
+  "rdr2map:134": {
+   "x": 4802.9,
+   "y": 1128.9,
+   "approx": false
+  },
+  "rdr2map:135": {
+   "x": 5391.9,
+   "y": 1574.8,
+   "approx": false
+  },
+  "rdr2map:136": {
+   "x": 6306.1,
+   "y": 1080.4,
+   "approx": false
+  },
+  "rdr2map:137": {
+   "x": 6159.2,
+   "y": 1575.5,
+   "approx": false
+  },
+  "rdr2map:138": {
+   "x": 4230.7,
+   "y": 2382.4,
+   "approx": false
+  },
+  "rdr2map:139": {
+   "x": 3259.4,
+   "y": 2257.3,
+   "approx": false
+  },
+  "rdr2map:140": {
+   "x": 2799.5,
+   "y": 2512.5,
+   "approx": false
+  },
+  "rdr2map:37": {
+   "x": 4276.7,
+   "y": 2025.7,
+   "approx": false
+  },
+  "rdr2map:38": {
+   "x": 4614.2,
+   "y": 995.4,
+   "approx": false
+  },
+  "rdr2map:39": {
+   "x": 5593.0,
+   "y": 1224.7,
+   "approx": false
+  },
+  "rdr2map:40": {
+   "x": 5474.2,
+   "y": 1618.2,
+   "approx": false
+  },
+  "rdr2map:173": {
+   "x": 5247.9,
+   "y": 2647.5,
+   "approx": false
+  },
+  "rdr2map:174": {
+   "x": 6294.5,
+   "y": 1941.4,
+   "approx": false
+  },
+  "rdr2map:175": {
+   "x": 6084.4,
+   "y": 1545.7,
+   "approx": false
+  },
+  "rdr2map:176": {
+   "x": 3882.7,
+   "y": 767.1,
+   "approx": false
+  },
+  "rdr2map:306": {
+   "x": 3819.2,
+   "y": 1934.9,
+   "approx": false
+  },
+  "rdr2map:307": {
+   "x": 3886.6,
+   "y": 1128.2,
+   "approx": false
+  },
+  "rdr2map:308": {
+   "x": 4794.1,
+   "y": 1148.8,
+   "approx": false
+  },
+  "rdr2map:387": {
+   "x": 1591.6,
+   "y": 3665.5,
+   "approx": false
+  },
+  "rdr2map:664": {
+   "x": 6402.8,
+   "y": 1096.4,
+   "approx": false
+  },
+  "rdr2map:665": {
+   "x": 6058.0,
+   "y": 1514.6,
+   "approx": false
+  },
+  "rdr2map:812": {
+   "x": 5184.0,
+   "y": 3391.1,
+   "approx": false
+  },
+  "rdr2map:19255": {
+   "x": 4302.6,
+   "y": 2317.5,
+   "approx": false
+  },
+  "rdr2map:19256": {
+   "x": 6077.4,
+   "y": 3210.5,
+   "approx": false
+  },
+  "rdr2map:19257": {
+   "x": 6315.4,
+   "y": 2921.9,
+   "approx": false
+  },
+  "rdr2map:21187": {
+   "x": 306.1,
+   "y": 4658.3,
+   "approx": false
+  },
+  "rdr2map:21188": {
+   "x": 2669.5,
+   "y": 4353.4,
+   "approx": false
+  },
+  "rdr2map:21189": {
+   "x": 1042.1,
+   "y": 4509.0,
+   "approx": false
+  },
+  "rdr2map:21190": {
+   "x": 2311.6,
+   "y": 4103.3,
+   "approx": false
+  },
+  "rdr2map:21249": {
+   "x": 2560.9,
+   "y": 2308.6,
+   "approx": false
+  },
+  "rdr2map:21250": {
+   "x": 6125.4,
+   "y": 2708.5,
+   "approx": false
+  },
+  "rdr2map:21251": {
+   "x": 5013.6,
+   "y": 1004.8,
+   "approx": false
+  },
+  "rdr2map:21252": {
+   "x": 5515.5,
+   "y": 3434.0,
+   "approx": false
+  },
+  "rdr2map:21253": {
+   "x": 3079.9,
+   "y": 2159.9,
+   "approx": false
+  }
+ }
+}

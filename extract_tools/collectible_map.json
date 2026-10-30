@@ -1,0 +1,55 @@
+{
+ "format": "hintforge-collectible-map-1",
+ "guide": "red_dead_redemption_2",
+ "catalog": "extract_tools/collectible_catalog.json",
+ "status": "extract_tools/item_status.json",
+ "out": "artifacts/full_map.html",
+ "storage_key": "hf-rdr2-full-map-marks",
+ "image": {"file": "artifacts/shots/rdr2_mapgenie_z5.jpg", "size": [7168, 5120]},
+ "tiles": {"url": "https://tiles.mapgenie.io/games/rdr2/world/atlas-v1/{z}/{x}/{y}.jpg", "z": 5, "x": [1, 28], "y": [2, 21]},
+ "coords": {"kind": "pixels", "positions": "extract_tools/map_positions.json"},
+ "numbering": {"mode": "source"},
+ "categories": [
+  {"category": "Cigarette Card", "letter": "C", "name": "Cigarette card", "color": [233, 196, 106], "title": "{cat_short}: {name}"},
+  {"category": "Dinosaur Bone", "letter": "B", "name": "Dinosaur bone", "color": [214, 204, 186]},
+  {"category": "Dreamcatcher", "letter": "D", "name": "Dreamcatcher", "color": [150, 205, 240]},
+  {"category": "Rock Carving", "letter": "R", "name": "Rock carving", "color": [190, 160, 130]},
+  {"category": "Legendary Fish", "letter": "F", "name": "Legendary fish", "color": [96, 196, 200], "title": "{cat_short}: {name}"},
+  {"category": "Treasure", "letter": "M", "name": "Treasure map", "color": [246, 214, 80]},
+  {"category": "Bounty Poster", "letter": "P", "name": "Bounty poster", "color": [226, 92, 92]},
+  {"category": "Hunting Request", "letter": "H", "name": "Hunting request", "color": [140, 210, 120]},
+  {"category": "Item Request", "letter": "I", "name": "Camp item request", "color": [250, 160, 70]}
+ ],
+ "fields": {"anchor": "anchor_safe", "window": "window", "file": "guide_file", "source_url": "source_url"},
+ "spoilers": [
+  {"when": {"category": ["Bounty Poster"]}, "action": "fold", "why": "a bounty target"}
+ ],
+ "detail_shows_where": true,
+ "row_text_max": 90,
+ "groups": {"rules": [{"name": "{group_label}"}]},
+ "sort": [{"category_first": ["Cigarette Card", "Dinosaur Bone", "Dreamcatcher", "Rock Carving", "Legendary Fish", "Treasure", "Bounty Poster", "Hunting Request", "Item Request"]}, "number"],
+ "landmarks": {
+  "file": "extract_tools/fast_travel_landmarks.json",
+  "kinds": [
+   {"id": 1, "kind": "ft", "label": "Fast travel", "letter": "T", "fill": "#d9b45a", "txt": "#241a02", "title": "Fast-travel point (camp map, after the lodging upgrades)"}
+  ]
+ },
+ "views": [
+  {"label": "Whole map", "box": "image"},
+  {"label": "Fit items", "box": {"items_pad": 120}}
+ ],
+ "start_view": "Fit items",
+ "zoom_limits": [140, 14000],
+ "style": {"sidebar_width": 360, "map_bg": "#15120f", "code_min_width": 40},
+ "text": {
+  "title": "Red Dead Redemption 2 collectible map",
+  "subtitle": "Story mode, matched to your progress (Chapter 1-2) and spoiler settings: anything later, treasure-hunt steps and legendary animals stay off this map (the separate all-markers map has them). Codes: letter = type, number = north to south, west to east. Gold diamonds = fast travel. Click a dot to see it; mark it taken in the side panel.",
+  "credit": "Map picture: tiles from MapGenie (rdr2map.com); marker locations: rdr2map.com (public map data, 2026-10-30), third party, for your own use. Location words and timing: this guide's collectible tables. The picture is the full atlas, so it names towns and places from every part of the story; the markers on it are only the ones this map lists. Dinosaur bones, dreamcatchers and rock carvings are listed by landmark in the guide, so their markers are not matched one by one.",
+  "source_link": "Marker source: rdr2map.com"
+ },
+ "test": {
+  "folded_words": ["Ellie Anne Swan", "Lindsey Wofford", "Joshua Brown", "Benedict Allbright", "Camille de Millemont", "Bart Cavanaugh"],
+  "hidden_words": ["Beecher", "Guarma", "Tumbleweed", "Armadillo", "Benedict Point", "MacFarlane", "Shady Belle", "Lakay", "Pronghorn", "Algernon", "Beaver Hollow", "pilogue", "Grimshaw", "Kieran", "Eagle Flies", "Jenny Kirk", "Otis Miller's", "Orchid"],
+  "min_nopos_rows": 0
+ }
+}

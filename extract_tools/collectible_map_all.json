@@ -1,0 +1,59 @@
+{
+ "format": "hintforge-collectible-map-1",
+ "guide": "red_dead_redemption_2",
+ "catalog": "extract_tools/collectible_catalog.json",
+ "status": "extract_tools/item_status.json",
+ "out": "artifacts/full_map_all_markers.html",
+ "storage_key": "hf-rdr2-full-map-marks",
+ "image": {"file": "artifacts/shots/rdr2_mapgenie_z5.jpg", "size": [7168, 5120]},
+ "tiles": {"url": "https://tiles.mapgenie.io/games/rdr2/world/atlas-v1/{z}/{x}/{y}.jpg", "z": 5, "x": [1, 28], "y": [2, 21]},
+ "coords": {"kind": "pixels", "positions": "extract_tools/map_positions.json"},
+ "numbering": {"mode": "source"},
+ "categories": [
+  {"category": "Cigarette Card", "letter": "C", "name": "Cigarette card", "color": [233, 196, 106], "title": "{cat_short}: {name}"},
+  {"category": "Cigarette Card later", "letter": "C", "name": "Cigarette card, held back", "color": [233, 196, 106], "shape": "square", "title": "{cat_short}: {name}"},
+  {"category": "Dinosaur Bone", "letter": "B", "name": "Dinosaur bone", "color": [214, 204, 186]},
+  {"category": "Dinosaur Bone later", "letter": "B", "name": "Dinosaur bone, held back", "color": [214, 204, 186], "shape": "square"},
+  {"category": "Dreamcatcher", "letter": "D", "name": "Dreamcatcher", "color": [150, 205, 240]},
+  {"category": "Rock Carving", "letter": "R", "name": "Rock carving", "color": [190, 160, 130]},
+  {"category": "Legendary Animal later", "letter": "A", "name": "Legendary animal, held back", "color": [232, 120, 92], "shape": "square", "title": "{cat_short}: {name}"},
+  {"category": "Legendary Fish", "letter": "F", "name": "Legendary fish", "color": [96, 196, 200], "title": "{cat_short}: {name}"},
+  {"category": "Legendary Fish later", "letter": "F", "name": "Legendary fish, held back", "color": [96, 196, 200], "shape": "square", "title": "{cat_short}: {name}"},
+  {"category": "Grave later", "letter": "G", "name": "Grave, held back", "color": [176, 176, 196], "shape": "square", "title": "{cat_short}: {name}"},
+  {"category": "Treasure", "letter": "M", "name": "Treasure map", "color": [246, 214, 80]},
+  {"category": "Treasure later", "letter": "M", "name": "Treasure map, held back", "color": [246, 214, 80], "shape": "square"},
+  {"category": "Bounty Poster", "letter": "P", "name": "Bounty poster", "color": [226, 92, 92]},
+  {"category": "Bounty Poster later", "letter": "P", "name": "Bounty poster, held back", "color": [226, 92, 92], "shape": "square"},
+  {"category": "Exotic later", "letter": "X", "name": "Exotic, held back (orchid, plume or egg)", "color": [212, 140, 220], "shape": "square", "title": "Exotic: {name}"},
+  {"category": "Hunting Request", "letter": "H", "name": "Hunting request", "color": [140, 210, 120]},
+  {"category": "Item Request", "letter": "I", "name": "Camp item request", "color": [250, 160, 70]},
+  {"category": "Item Request later", "letter": "I", "name": "Camp item request, held back", "color": [250, 160, 70], "shape": "square"}
+ ],
+ "fields": {"anchor": "anchor_all", "window": "window", "file": "guide_file", "source_url": "source_url"},
+ "spoilers": [],
+ "detail_shows_where": true,
+ "row_text_max": 90,
+ "groups": {"rules": [{"name": "{group_label}"}]},
+ "sort": [{"category_first": ["Cigarette Card", "Cigarette Card later", "Dinosaur Bone", "Dinosaur Bone later", "Dreamcatcher", "Rock Carving", "Legendary Animal later", "Legendary Fish", "Legendary Fish later", "Grave later", "Treasure", "Treasure later", "Bounty Poster", "Bounty Poster later", "Exotic later", "Hunting Request", "Item Request", "Item Request later"]}, "number"],
+ "landmarks": {
+  "file": "extract_tools/fast_travel_landmarks.json",
+  "kinds": [
+   {"id": 1, "kind": "ft", "label": "Fast travel", "letter": "T", "fill": "#d9b45a", "txt": "#241a02", "title": "Fast-travel point (camp map, after the lodging upgrades)"},
+   {"id": 2, "kind": "ftlate", "label": "Fast travel, held back", "letter": "T", "fill": "#8c7f68", "txt": "#15120f", "title": "Fast-travel point the guide places in a later part of the story"}
+  ]
+ },
+ "views": [
+  {"label": "Whole map", "box": "image"},
+  {"label": "Fit items", "box": {"items_pad": 120}}
+ ],
+ "start_view": "Whole map",
+ "zoom_limits": [140, 14000],
+ "style": {"sidebar_width": 360, "map_bg": "#15120f", "code_min_width": 40},
+ "text": {
+  "title": "Red Dead Redemption 2 collectible map: all markers (spoilers)",
+  "subtitle": "Every story-mode marker, including the ones your own map holds back. Round dots are on your own map too; square dots and grey diamonds are held back, and each says why in its panel. Codes and taken marks are shared with your own map. Click a dot to see it; mark it taken in the side panel.",
+  "credit": "Marker positions: rdr2map.com public map data (2026-10-30), third party, for your own use. Location words and timing: this guide's collectible tables. A marker the guide has no row for says so in its panel (unverified). The site's marker counts do not always match the guide: 202 exotic markers against 182 request items, 27 treasure markers against 11 stashes or 6 chains, 14 bounty-poster markers against 6 to 14 targets, 9 item-request markers against 21 camp requests. Map picture: tiles from MapGenie (rdr2map.com); marker locations: rdr2map.com. The picture is the full atlas, so it names towns and places from every part of the story; the markers on it are the ones listed here.",
+  "source_link": "Marker source: rdr2map.com"
+ },
+ "test": {"folded_words": [], "hidden_words": [], "min_nopos_rows": 0}
+}

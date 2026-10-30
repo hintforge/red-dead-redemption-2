@@ -1,0 +1,166 @@
+{
+ "note": "longitude/latitude here are picture pixels (x, y), the landmark-file shape build_map.py reads",
+ "locations": [
+  {
+   "category_id": 2,
+   "longitude": 3432.4,
+   "latitude": 3121.7,
+   "title": "Beecher's Hope",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 4314.3,
+   "latitude": 1694.1,
+   "title": "Valentine",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 5690.7,
+   "latitude": 3125.4,
+   "title": "Caliga Hall",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 4825.9,
+   "latitude": 1745.5,
+   "title": "Cornwall Kerosene & Tar",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 5464.9,
+   "latitude": 2004.6,
+   "title": "Emerald Ranch",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 3299.0,
+   "latitude": 2510.6,
+   "title": "Strawberry",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 5389.2,
+   "latitude": 3078.7,
+   "title": "Rhodes",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 6319.2,
+   "latitude": 3152.4,
+   "title": "Saint Denis",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 5190.7,
+   "latitude": 3349.9,
+   "title": "Braithwaite Manor",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 6464.0,
+   "latitude": 1359.1,
+   "title": "Annesburg",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 3961.1,
+   "latitude": 3105.8,
+   "title": "Blackwater",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 6223.7,
+   "latitude": 1692.2,
+   "title": "Butcher Creek",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 5923.2,
+   "latitude": 2645.9,
+   "title": "Lagras",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 6488.4,
+   "latitude": 1827.2,
+   "title": "Van Horn Trading Post",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 4820.0,
+   "latitude": 730.7,
+   "title": "Wapiti Indian Reservation",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 2771.2,
+   "latitude": 1925.7,
+   "title": "Pronghorn Ranch",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 3228.2,
+   "latitude": 3342.6,
+   "title": "Manzanita Trading Post",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 2073.8,
+   "latitude": 3954.0,
+   "title": "Armadillo",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 855.3,
+   "latitude": 4179.9,
+   "title": "Tumbleweed",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 2887.0,
+   "latitude": 3834.9,
+   "title": "MacFarlane's Ranch",
+   "description": ""
+  },
+  {
+   "category_id": 1,
+   "longitude": 3633.2,
+   "latitude": 594.1,
+   "title": "Colter",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 3570.5,
+   "latitude": 3739.9,
+   "title": "Thieves Landing",
+   "description": ""
+  },
+  {
+   "category_id": 2,
+   "longitude": 1037.0,
+   "latitude": 4529.7,
+   "title": "Benedict Point",
+   "description": ""
+  }
+ ]
+}
